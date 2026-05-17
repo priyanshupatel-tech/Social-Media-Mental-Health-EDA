@@ -130,15 +130,14 @@ The dataset (`social.csv`) includes the following key columns:
 - `platform_usage` — Primary social media platform used
 - `depression_label` — Depression indicator
 
-> **Note:** The dataset file is not included in this repository. You can use your own dataset with the same column structure.
 
 ---
 
 ## 👤 Author
 
 **[Priyanshu Patel]**
-- GitHub: [priyanshupatel-tech](https://github.com/priyanshupatel-tech)
-- LinkedIn: [priyanshupatel-tech](https://linkedin.com/in/priyanshupatel-tech)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshupatel-tech/)
+- 💻 [GitHub](https://github.com/priyanshupatel-tech)
 
 ---
 
