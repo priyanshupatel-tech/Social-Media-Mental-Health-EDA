@@ -98,8 +98,8 @@ Created 6 new categorical columns using `np.where`:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/priyanshupatel-tech/social-media-eda.git
-   cd social-media-eda
+   git clone https://github.com/priyanshupatel-tech/social-media-mental-health-eda.git
+   cd social-media-mental-health-eda
    ```
 
 2. Install required libraries:
